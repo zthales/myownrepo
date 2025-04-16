@@ -1,1 +1,6 @@
 # myownrepo
+EMIR
+UNTER
+THALES 
+SEIN 
+AYRI
